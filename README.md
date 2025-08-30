@@ -1,9 +1,9 @@
-🌍 Mini Travel Website
+**🌍 Mini Travel Website**
 
 This is a beginner-friendly travel website built using pure HTML.
 The project includes multiple pages for popular destinations with navigation links and a contact form.
 
-✨ Features
+**✨ Features**
 
 🏠 Home Page with navigation links
 📍 Destination Pages: Paris, Tokyo, Kerala, Gokarna, New York
@@ -11,7 +11,7 @@ The project includes multiple pages for popular destinations with navigation lin
 🔗 Back to Home links for easy navigation
 📂 Simple and clean file structure
 
-🚀 How to Run
+**🚀 How to Run**
 
 Clone or download this repository.
 Open the folder in your code editor (e.g., VS Code).
