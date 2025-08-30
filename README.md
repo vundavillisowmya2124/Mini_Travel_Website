@@ -1,4 +1,4 @@
-##🌍 Mini Travel Website
+## 🌍 Mini Travel Website
 
 - This is a beginner-friendly travel website built using pure HTML.
 - The project includes multiple pages for popular destinations with navigation links and a contact form.
